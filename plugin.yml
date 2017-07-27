@@ -1,5 +1,5 @@
 name: JoinCommands
 main: pixelguy75\joincommands\Main
-version: 1.5
-api: 1.0.0
-author: [Gamecrafter, PixelGuy75]
+version: 1.6
+api: [3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0-ALPHA7, 3.0.1]
+authors: [Gamecrafter, PixelGuy75, and Zeao]
